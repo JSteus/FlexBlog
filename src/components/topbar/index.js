@@ -1,4 +1,5 @@
-import React from "react";
+import React from "react"
+import "./styles.scss"
 
 export default function Topbar() {
   return (
@@ -9,5 +10,5 @@ export default function Topbar() {
         <p>AV. Ali Perto 330, Icoaraci - PA</p>
       </div>
     </div>
-  );
+  )
 }
